@@ -1,4 +1,4 @@
-package com.exemplu.proiect.model;
+package com.example.grocerystore.model;
 
 import jakarta.persistence.*;
 
